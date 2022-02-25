@@ -1,0 +1,13 @@
+Quiz Game!
+Game with time limits!
+
+// Run
+go run ./main
+
+// Help
+go run ./main -h
+
+// if you don't want shuffle questions
+go run ./main -shuffle=false
+
+Enjoy :)
